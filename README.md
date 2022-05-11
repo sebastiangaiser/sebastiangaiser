@@ -1,7 +1,7 @@
 # Hi there, I'm Sebastian 👋
 
-- 🔭 I’m currently working on Kubernetes, Helm and Terraform
-- 🌱 I’m currently learning HashiCorp Waypoint
+- 🔭 I’m currently working on Kubernetes, Helm, ArgoCD and Terraform
+- 🌱 I’m drifting more and more from infrastructure to software development (but with infrastructure background, of course 😆) 
 - ⚡ Fun fact: You can’t buy happiness, but you can buy a lift pass.
 
 ## 🔧 Technologies & Tools
